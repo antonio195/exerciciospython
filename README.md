@@ -1,2 +1,2 @@
 # exerciciospython
-Exercicios praticados
+Aqui estão todos os exercicios que eu pratiquei.
